@@ -11,35 +11,9 @@ NotebookLM allows you to generate audio overviews, but it lacks a few key featur
 5. Resume Easily Next Time: When you return, simply upload the audio and import your saved notes to continue from exactly where you left off
 
 ---
-- 98% of the code is vibe coded*
-- I am thinking about rebuilding this project by myself in the future and adding more futures to it, for now this is a greate starter point.
+
+- this app was mostlly vibe coded using Vercel v0 (didn't use v0 since then)
+- I was thinking about adding more features to it, but I didn't use it since then, so...
+- 
 ---
-
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/younexs-projects/audio-notes)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/morXkhraNGb)
-
-## Overview
-
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
-
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/younexs-projects/audio-notes](https://vercel.com/younexs-projects/audio-notes)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/morXkhraNGb](https://v0.dev/chat/projects/morXkhraNGb)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+try it on : **[audio-mark](https://audio-mark.vercel.app/)**
